@@ -120,7 +120,7 @@ type
 implementation
 
 uses
-  StrMessages, httpsend_helper, mTools;
+  httpsend_helper, mTools;
 
 var
   FtpInstance : TFTPMan;
